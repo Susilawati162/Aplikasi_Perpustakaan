@@ -1,0 +1,116 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Aplikasi_Perpustakaan
+</name>
+</assembly>
+<members>
+<member name="P:Aplikasi_Perpustakaan.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources._1013e54798eb8cb9e5175e97ff6503b5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources._1523436_orig">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources._3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources._41269_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources._646xauto_5_perpustakaan_unik_di_dunia_140919s">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources.back_papan_gelap">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources.batal_button_png_hi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources.bg8">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources.BrickBackgroundDarkTeal1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources.dark_blue_wallpaper_by_malkowitch_d6iuhnh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources.graduation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources.hapus_hi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources.header_stikes_mrm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources.images__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources.jenis_buku">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources.keluar_button_png_hi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources.kembali_png_hi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources.large_perpustakaan_termegah_di_indonesia_akan_diresmikan_e555cdaf99f47a9bcfc0b6ebab7cafa6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources.login_button_png_hi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources.Resim_1323343300">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources.simpan_th">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Aplikasi_Perpustakaan.My.Resources.Resources.wisuda_2_940x385">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Aplikasi_Perpustakaan.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

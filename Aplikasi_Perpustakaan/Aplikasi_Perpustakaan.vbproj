@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F32FE0B7-AF5D-40A0-8833-C4004727D144}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Aplikasi_Perpustakaan.My.MyApplication</StartupObject>
+    <RootNamespace>Aplikasi_Perpustakaan</RootNamespace>
+    <AssemblyName>Aplikasi_Perpustakaan</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Aplikasi_Perpustakaan.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Aplikasi_Perpustakaan.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.Designer.vb">
+      <DependentUpon>Admin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buku.Designer.vb">
+      <DependentUpon>Buku.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Buku.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cetak1.Designer.vb">
+      <DependentUpon>Cetak1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cetak1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cetak2.Designer.vb">
+      <DependentUpon>Cetak2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cetak2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrystalReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kembali.Designer.vb">
+      <DependentUpon>Kembali.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Kembali.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mahasiswa.Designer.vb">
+      <DependentUpon>Mahasiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mahasiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Utama.Designer.vb">
+      <DependentUpon>Menu_Utama.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Utama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Pinjam.Designer.vb">
+      <DependentUpon>Pinjam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pinjam.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Struk.Designer.vb">
+      <DependentUpon>Struk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Struk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Struk2.Designer.vb">
+      <DependentUpon>Struk2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Struk2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buku.resx">
+      <DependentUpon>Buku.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cetak1.resx">
+      <DependentUpon>Cetak1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cetak2.resx">
+      <DependentUpon>Cetak2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kembali.resx">
+      <DependentUpon>Kembali.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mahasiswa.resx">
+      <DependentUpon>Mahasiswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Utama.resx">
+      <DependentUpon>Menu_Utama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pinjam.resx">
+      <DependentUpon>Pinjam.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Struk.resx">
+      <DependentUpon>Struk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Struk2.resx">
+      <DependentUpon>Struk2.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\646xauto-5-perpustakaan-unik-di-dunia-140919s.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1013e54798eb8cb9e5175e97ff6503b5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41269_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1523436_orig.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back papan gelap.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BrickBackgroundDarkTeal1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dark_blue_wallpaper_by_malkowitch-d6iuhnh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\graduation.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hapus-hi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\header-stikes-mrm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jenis-buku.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kembali-png-hi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\large-perpustakaan-termegah-di-indonesia-akan-diresmikan-e555cdaf99f47a9bcfc0b6ebab7cafa6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-button-png-hi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Resim_1323343300.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\simpan-th.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wisuda-2-940x385.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\batal-button-png-hi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keluar-button-png-hi.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

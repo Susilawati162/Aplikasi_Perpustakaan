@@ -1,0 +1,63 @@
+D:\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\bin\Debug\Aplikasi_Perpustakaan.exe
+D:\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\bin\Debug\Aplikasi_Perpustakaan.pdb
+D:\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\bin\Debug\Aplikasi_Perpustakaan.xml
+D:\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Resources.resources
+D:\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.vbproj.GenerateResource.Cache
+D:\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.exe
+D:\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.xml
+D:\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.pdb
+D:\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Admin.resources
+D:\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Buku.resources
+D:\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Login.resources
+D:\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Mahasiswa.resources
+D:\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Menu_Utama.resources
+D:\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Pinjam.resources
+D:\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Kembali.resources
+D:\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\bin\Debug\Aplikasi_Perpustakaan.exe.config
+D:\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.vbprojResolveAssemblyReference.cache
+D:\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Cetak1.resources
+D:\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Struk.resources
+D:\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Cetak2.resources
+D:\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Struk2.resources
+D:\projek\Visual Studio\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\bin\Debug\Aplikasi_Perpustakaan.exe.config
+D:\projek\Visual Studio\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.exe
+D:\projek\Visual Studio\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.xml
+D:\projek\Visual Studio\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.pdb
+D:\projek\Visual Studio\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\bin\Debug\Aplikasi_Perpustakaan.exe
+D:\projek\Visual Studio\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\bin\Debug\Aplikasi_Perpustakaan.pdb
+D:\projek\Visual Studio\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\bin\Debug\Aplikasi_Perpustakaan.xml
+D:\projek\Visual Studio\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.vbprojResolveAssemblyReference.cache
+D:\projek\Visual Studio\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Admin.resources
+D:\projek\Visual Studio\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Buku.resources
+D:\projek\Visual Studio\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Cetak1.resources
+D:\projek\Visual Studio\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Cetak2.resources
+D:\projek\Visual Studio\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Kembali.resources
+D:\projek\Visual Studio\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Login.resources
+D:\projek\Visual Studio\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Mahasiswa.resources
+D:\projek\Visual Studio\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Menu_Utama.resources
+D:\projek\Visual Studio\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Resources.resources
+D:\projek\Visual Studio\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Pinjam.resources
+D:\projek\Visual Studio\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Struk.resources
+D:\projek\Visual Studio\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Struk2.resources
+D:\projek\Visual Studio\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.vbproj.GenerateResource.Cache
+D:\Document\dokumen susi\UIN SGD Bandung\Semester 4\RPL - Prak RPL\Perpustakaan\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\bin\Debug\Aplikasi_Perpustakaan.exe.config
+D:\Document\dokumen susi\UIN SGD Bandung\Semester 4\RPL - Prak RPL\Perpustakaan\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.exe
+D:\Document\dokumen susi\UIN SGD Bandung\Semester 4\RPL - Prak RPL\Perpustakaan\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.xml
+D:\Document\dokumen susi\UIN SGD Bandung\Semester 4\RPL - Prak RPL\Perpustakaan\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.pdb
+D:\Document\dokumen susi\UIN SGD Bandung\Semester 4\RPL - Prak RPL\Perpustakaan\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\bin\Debug\Aplikasi_Perpustakaan.exe
+D:\Document\dokumen susi\UIN SGD Bandung\Semester 4\RPL - Prak RPL\Perpustakaan\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\bin\Debug\Aplikasi_Perpustakaan.pdb
+D:\Document\dokumen susi\UIN SGD Bandung\Semester 4\RPL - Prak RPL\Perpustakaan\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\bin\Debug\Aplikasi_Perpustakaan.xml
+D:\Document\dokumen susi\UIN SGD Bandung\Semester 4\RPL - Prak RPL\Perpustakaan\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.vbprojResolveAssemblyReference.cache
+D:\Document\dokumen susi\UIN SGD Bandung\Semester 4\RPL - Prak RPL\Perpustakaan\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Admin.resources
+D:\Document\dokumen susi\UIN SGD Bandung\Semester 4\RPL - Prak RPL\Perpustakaan\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Buku.resources
+D:\Document\dokumen susi\UIN SGD Bandung\Semester 4\RPL - Prak RPL\Perpustakaan\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Cetak1.resources
+D:\Document\dokumen susi\UIN SGD Bandung\Semester 4\RPL - Prak RPL\Perpustakaan\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Cetak2.resources
+D:\Document\dokumen susi\UIN SGD Bandung\Semester 4\RPL - Prak RPL\Perpustakaan\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Kembali.resources
+D:\Document\dokumen susi\UIN SGD Bandung\Semester 4\RPL - Prak RPL\Perpustakaan\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Login.resources
+D:\Document\dokumen susi\UIN SGD Bandung\Semester 4\RPL - Prak RPL\Perpustakaan\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Mahasiswa.resources
+D:\Document\dokumen susi\UIN SGD Bandung\Semester 4\RPL - Prak RPL\Perpustakaan\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Menu_Utama.resources
+D:\Document\dokumen susi\UIN SGD Bandung\Semester 4\RPL - Prak RPL\Perpustakaan\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Resources.resources
+D:\Document\dokumen susi\UIN SGD Bandung\Semester 4\RPL - Prak RPL\Perpustakaan\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Pinjam.resources
+D:\Document\dokumen susi\UIN SGD Bandung\Semester 4\RPL - Prak RPL\Perpustakaan\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Struk.resources
+D:\Document\dokumen susi\UIN SGD Bandung\Semester 4\RPL - Prak RPL\Perpustakaan\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.Struk2.resources
+D:\Document\dokumen susi\UIN SGD Bandung\Semester 4\RPL - Prak RPL\Perpustakaan\Aplikasi_Perpustakaan\Aplikasi_Perpustakaan\obj\x86\Debug\Aplikasi_Perpustakaan.vbproj.GenerateResource.Cache
